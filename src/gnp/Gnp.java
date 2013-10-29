@@ -22,7 +22,7 @@ public class Gnp {
      * @param args the command line arguments
      */
     static final int attributeamount = 50;
-    static final int dataamount = 2500;
+    static final int dataamount = 2000;
     static int[] cluster = {500,300,600,400,350,269,390,600,987,897};
     static int clusterindex = 0;
     static final DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd-HH-mm-ss");
